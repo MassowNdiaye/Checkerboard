@@ -12,14 +12,21 @@ body {
     grid-template-rows: repeat(8, 106px);
     border: 3px solid black;
     padding: 8px 4px 4px 8px;
+    background-color: white;
+    
 }
 
 .box {
     width: 100px;
-    height: 100px;
-    
+    height: 100px;   
 }
 
 .black {
     background-color: black;
 }
+
+.white {
+    background-color: white;
+}
+
+
